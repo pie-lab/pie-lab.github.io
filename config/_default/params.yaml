@@ -1,0 +1,62 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance - Choose a color theme
+# Options: emerald, ocean, forest, dark, minimal, mr robot, strawberry, coffee, rose, etc.
+# See full list: https://docs.hugoblox.com/getting-started/customization/#appearance
+appearance:
+  mode: system
+  color: ocean
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Your Name'  # CHANGE THIS to your name
+    description: 'Personal academic website showcasing research, publications, and projects.'
+    twitter: ''  # Add your Twitter handle if you have one (without @)
+  analytics:
+    google_analytics: ''  # Add your Google Analytics ID if you want to track visitors
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Your Name"  # CHANGE THIS to your name
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Your Name. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  math:
+    enable: false  # Set to true if you need to display mathematical equations
+  privacy_pack:
+    enable: false
