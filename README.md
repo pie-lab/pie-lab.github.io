@@ -463,7 +463,7 @@ What you did as a TA or instructor.
 
 ### Using a Custom Domain (Optional)
 
-1. **Buy a domain** from a registrar (Namecheap, Google Domains, etc.)
+1. **Buy a domain** from a registrar (Porkbun, Namecheap, Google Domains, etc.)
 
 2. **Add your custom domain to GitHub:**
    - In your repository, go to Settings → Pages
