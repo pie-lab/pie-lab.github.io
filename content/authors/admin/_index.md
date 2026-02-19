@@ -21,14 +21,14 @@ role: PhD Student in Psychology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University Name
-    url: https://www.university.edu/psychology
+  - name: University of Oregon
+    url: https://naturalsciences.uoregon.edu/psychology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your.email@university.edu'
+    url: 'mailto:your.email@uoregon.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yourusername
@@ -47,7 +47,7 @@ interests:
 
 education:
   - area: PhD Psychology
-    institution: University Name
+    institution: University of Oregon
     date_start: 2021-09-01
     date_end: ''
     summary: |
@@ -63,7 +63,7 @@ education:
 
 work:
   - position: Graduate Research Assistant
-    company_name: University Name
+    company_name: University of Oregon
     company_url: ''
     company_logo: ''
     date_start: 2021-09-01
