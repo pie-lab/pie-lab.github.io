@@ -15,7 +15,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Your Name'  # CHANGE THIS to your name
+    org_name: 'Sara Weston'  # CHANGE THIS to your name
     description: 'Personal academic website showcasing research, publications, and projects.'
     twitter: ''  # Add your Twitter handle if you have one (without @)
   analytics:
@@ -37,12 +37,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"  # CHANGE THIS to your name
+      text: "Sara Weston"  # CHANGE THIS to your name
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Your Name. This work is licensed under {license}'
+    notice: '© {year} Sara Weston. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

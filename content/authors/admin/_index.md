@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Your Name
+title: Sara Weston
 
 # Full name (for SEO)
-first_name: Your
-last_name: Name
+first_name: Sara
+last_name: Weston
 
 # Status emoji (optional - delete if you don't want one)
 status:
@@ -28,10 +28,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your.email@uoregon.edu'
+    url: 'mailto:sweston2@uoregon.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yourusername
+    url: https://github.com/sjweston
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yourprofile
   - icon: academicons/google-scholar
@@ -40,7 +40,6 @@ profiles:
     url: https://orcid.org/0000-0000-0000-0000
 
 interests:
-  - Social Psychology
   - Personality and Individual Differences
   - Health Psychology
   - Quantitative Methods
